@@ -1,6 +1,7 @@
 # bubbleSort
 
 Here is a description of the Bubble Sort algorithm:
+
 The algorithm starts by comparing the first element of the array with the second element. If the first element is greater than the second, they are swapped. Otherwise, they remain in place.
 Then, the algorithm compares the second element with the third element and repeats the swapping process if necessary. This continues until the end of the array.
 After a complete pass through the array, the largest element will already be at the end of the array, as it will have "bubbled" into the correct position.
